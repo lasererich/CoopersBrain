@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Topics/Coperion in General.md",
+                "file": "General Topics/+++Invitation to Other Booths+++.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Coperion in General"
+              "title": "+++Invitation to Other Booths+++"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "eb4c6ff933f76efe",
   "lastOpenFiles": [
+    "General Topics/Coperion in General.md",
     "Personality/Cooper V1.md",
     "Personality"
   ]
