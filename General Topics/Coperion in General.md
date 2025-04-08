@@ -166,6 +166,8 @@ Through these initiatives, Coperion demonstrates its dedication to sustainabilit
 
 #### Related Talks & Events
 None
+Ted Talk Test
+
 
 #### Keywords
 - Integrated process solutions​
